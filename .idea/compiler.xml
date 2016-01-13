@@ -27,7 +27,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="rdv-data-jpa" target="1.6" />
+      <module name="rdv-data-jpa" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

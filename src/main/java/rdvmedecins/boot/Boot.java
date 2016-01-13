@@ -50,5 +50,4 @@ public class Boot {
             System.out.println(element);
         }
     }
-
 }

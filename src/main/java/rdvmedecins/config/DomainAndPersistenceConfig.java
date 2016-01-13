@@ -10,7 +10,7 @@ import org.springframework.orm.jpa.vendor.Database;
 import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 import org.apache.commons.dbcp.BasicDataSource;
-
+import com.mysql.jdbc.Driver;
 import javax.sql.DataSource;
 
 /**
